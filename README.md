@@ -50,4 +50,7 @@ I am Lin Lin Hlaing, a **Machine Learning Engineer** with 3 years of experience 
 ---
 
 ### 📄 Professional Links
-- **Resume**: [My Resume/CV](https:/
+- **Resume**: [My Resume/CV](https://linlinhlaing.com/LinHlaing-resume.pdf)
+- **Email**: [linhlaing@outlook.com](mailto:linhlaing@outlook.com)
+
+</div>
