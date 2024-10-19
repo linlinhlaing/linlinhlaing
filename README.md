@@ -50,7 +50,7 @@
 
 <!-- Skills Section -->
 <h2 align="center" style="color: #3498db; font-weight: bold;">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; margin: 10px;">
     <div style="text-align: center; margin: 10px;">
         <a href="https://www.python.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/python.png" alt="Python" width="40" height="40" />
