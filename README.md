@@ -159,21 +159,19 @@
 <h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h3>
 <p align="center">
     <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank" style="text-decoration: none; color: #3498db; margin-right: 20px;">
-    <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">Resume</span>
         <img src="images/resume.png"  alt="Resume Icon" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">View Resume</span>
     </a>
     <a href="mailto:linhlaing@outlook.com" style="text-decoration: none; color: #3498db;">
-     <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">Email</span>
         <img src="images/email.png" alt="Email Icon" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">Email Me</span>
     </a>
 </p>
-
-
 
 <br>
 <!-- GitHub Snake Contribution -->
 <div align="center">
-<h2 align="center" style="color: #3498db;font-weight: bold;">🐍 My Contributions 🐍</h3>
+<h2 align="center" style="color: #3498db;font-weight: bold;">My Contributions 🐍</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/output/github-contribution-grid-snake.svg" />
 </div>
