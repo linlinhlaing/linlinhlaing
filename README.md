@@ -177,11 +177,3 @@
 </div>
 
 <hr/>
-<style>
-    /* Hover effect */
-    td:hover {
-        transform: scale(1.1);
-        cursor: pointer;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
-</style>
