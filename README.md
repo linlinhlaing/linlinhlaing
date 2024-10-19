@@ -17,7 +17,7 @@
 
 
 <p align="center" style="font-size: 1.2rem;">
-    Hello! I am <strong>Lin Lin Hlaing</strong>, a <strong>Machine Learning Engineer</strong> with 3 years of experience in developing and deploying models using <strong>TensorFlow</strong> and <strong>Keras</strong>. My expertise spans object detection and image processing solutions.
+    Hello! I am <strong>Lin Lin Hlaing</strong>, a <strong>Machine Learning Engineer</strong> with 3 years of experience in developing and deploying models using <strong>TensorFlow</strong> and <strong>Keras</strong>.  My background includes developing object detection and image processing solutions.
 </p>
 <br>
 <!-- Contact Section -->
