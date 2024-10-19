@@ -156,7 +156,7 @@
 
 
 <!-- Professional Links Section -->
-<h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h3>
+<!-- <h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h3>
 <p align="center">
     <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank" style="text-decoration: none; color: #3498db; margin-right: 20px;">
         <img src="images/resume.png"  alt="Resume Icon" width="40" style="vertical-align: middle;"/>
@@ -166,7 +166,26 @@
         <img src="images/email.png" alt="Email Icon" width="40" style="vertical-align: middle;"/>
         <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">Email Me</span>
     </a>
-</p>
+</p> -->
+
+<h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h2>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" style="margin: 10px;">
+                <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank">
+                    <img src="images/resume.png" alt="resume" width="40" height="40" />
+                    <br/>Resume
+                </a>
+            </td>
+            <td align="center" style="margin: 10px;">
+                <a href="mailto:linhlaing@outlook.com" target="_blank">
+                    <img src="images/email.png" alt="Email" width="40" height="40" />
+                    <br/>Email
+                </a>
+            </td>
+           </tr>
+    </table>
 
 <br>
 <!-- GitHub Snake Contribution -->
