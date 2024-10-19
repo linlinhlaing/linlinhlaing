@@ -8,7 +8,7 @@
 
 <!-- Portfolio Section -->
 <p align="center">
-    <span style="font-size: 1.4rem;color:#3498db;font-weight: bold;">🚀 Visit my Portfolio</span>
+    <h2 align="center" style="color: #3498db;font-weight: bold;">🚀 Visit my Portfolio</h3>
     <br/>
     <a href="https://linlinhlaing.com/" target="_blank" style="text-decoration: none;">
         <img src="images/portfolio.svg" alt="Portfolio Globe Icon" width="40" height="40" /></a>
@@ -19,7 +19,7 @@
 </p>
 <br>
 <!-- Contact Section -->
-<h2 align="center" style="color: #3498db;font-weight: bold;">📫 How to reach me</h3>
+<h2 align="center" style="color: #3498db;font-weight: bold;">📫 How to reach me</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/lin-hlaing/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
