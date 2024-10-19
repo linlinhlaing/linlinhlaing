@@ -46,7 +46,6 @@
 </ul>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/your_image.png" alt="Description" />
 
 
 <!-- Skills Section -->
