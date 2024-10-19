@@ -8,13 +8,12 @@
 
 <!-- Portfolio Section -->
 
-<h3 align="center" style="font-weight: bold; color: #3498db;">🚀 Visit my Portfolio</h3>
 <p align="center">
-    <a href="https://linlinhlaing.com/" target="_blank" style="text-decoration: none;">
-        <img src="images/portfolio.svg" alt="Portfolio Globe Icon" width="40" height="40" /></a>
+  [![Visit my Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-3498db?style=for-the-badge&logo=appveyor)](https://linlinhlaing.com/)
 </p>
 
-</p>
+
+
 
 <p align="center" style="font-size: 1.2rem;">
     Hello! I am <strong>Lin Lin Hlaing</strong>, a <strong>Machine Learning Engineer</strong> with 3 years of experience in developing and deploying models using <strong>TensorFlow</strong> and <strong>Keras</strong>. My expertise spans object detection and image processing solutions.
