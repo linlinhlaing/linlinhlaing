@@ -49,11 +49,10 @@
 
 
 <!-- Skills Section -->
-<!-- Skills Section -->
 <h2 align="center" style="color: #3498db; font-weight: bold;">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <table>
+    <table style="border-collapse: collapse;">
         <tr>
             <td align="center" style="margin: 10px;">
                 <a href="https://www.python.org/" target="_blank">
@@ -176,3 +175,11 @@
 </div>
 
 <hr/>
+<style>
+    /* Hover effect */
+    td:hover {
+        transform: scale(1.1);
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+</style>
