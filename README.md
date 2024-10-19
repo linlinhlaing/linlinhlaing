@@ -171,7 +171,7 @@
 <br>
 <!-- GitHub Snake Contribution -->
 <div align="center">
-<h2 align="center" style="color: #3498db;font-weight: bold;">My Contributions 🐍</h3>
+<h2 align="center" style="color: #3498db;font-weight: bold;">🐍 My Contributions 🐍</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/output/github-contribution-grid-snake.svg" />
 </div>
