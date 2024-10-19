@@ -170,7 +170,7 @@
 
 <h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h2>
 <div align="center">
-    <table>
+    <table border="0">
         <tr>
             <td align="center" style="margin: 10px;">
                 <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank">
