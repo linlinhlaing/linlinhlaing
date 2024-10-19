@@ -9,10 +9,11 @@
 <!-- Portfolio Section -->
 
 <p align="center">
-    <span style="font-size: 1.7rem;color:#3498db;font-weight: bold;">🚀 Visit my Portfolio</span>
+    <span style="color: #3498db; font-weight: bold;">🚀 Visit my Portfolio</span>
     <br/>
     <a href="https://linlinhlaing.com/" target="_blank" style="text-decoration: none;">
-        <img src="images/portfolio.svg" alt="Portfolio Globe Icon" width="40" height="40" /></a>
+        <img src="images/portfolio.svg" alt="Portfolio Globe Icon" width="40" height="40" />
+    </a>
 </p>
 
 
