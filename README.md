@@ -156,31 +156,18 @@
 
 
 <!-- Professional Links Section -->
-<!-- <h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h3>
+<h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h3>
 <p align="center">
     <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank" style="text-decoration: none; color: #3498db; margin-right: 20px;">
+    <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">Resume</span>
         <img src="images/resume.png"  alt="Resume Icon" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">View Resume</span>
     </a>
     <a href="mailto:linhlaing@outlook.com" style="text-decoration: none; color: #3498db;">
+     <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">Email</span>
         <img src="images/email.png" alt="Email Icon" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 1rem; font-weight: bold; vertical-align: middle;">Email Me</span>
-    </a>
-</p> -->
-
-<!-- Professional Links Section -->
-<h2 align="center">🔗 Professional Links</h2>
-<p align="center">
-    <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank">
-        <img src="images/resume.png" alt="Resume Icon" width="40" style="vertical-align: middle;"/>
-        <span style="font-weight: bold; margin-left: 8px;">Resume</span>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:linhlaing@outlook.com">
-        <img src="images/email.png" alt="Email Icon" width="40" style="vertical-align: middle;"/>
-        <span style="font-weight: bold; margin-left: 8px;">Email</span>
     </a>
 </p>
+
 
 
 <br>
