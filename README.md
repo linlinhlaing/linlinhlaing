@@ -168,24 +168,20 @@
     </a>
 </p> -->
 
+<!-- Professional Links Section -->
 <h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h2>
 <div align="center">
-    <table border="0">
-        <tr>
-            <td align="center" style="margin: 10px;">
-                <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank">
-                    <img src="images/resume.png" alt="resume" width="40" height="40" />
-                    <br/>Resume
-                </a>
-            </td>
-            <td align="center" style="margin: 10px;">
-                <a href="mailto:linhlaing@outlook.com" target="_blank">
-                    <img src="images/email.png" alt="Email" width="40" height="40" />
-                    <br/>Email
-                </a>
-            </td>
-           </tr>
-    </table>
+    <a href="https://linlinhlaing.com/LinHlaing-resume.pdf" target="_blank" style="margin: 20px;">
+        <img src="images/resume.png" alt="Resume" width="40" height="40" />
+        <br/>Resume
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:linhlaing@outlook.com" target="_blank" style="margin: 20px;">
+        <img src="images/email.png" alt="Email" width="40" height="40" />
+        <br/>Email
+    </a>
+</div>
+
 
 <br>
 <!-- GitHub Snake Contribution -->
