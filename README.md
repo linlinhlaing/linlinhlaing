@@ -111,25 +111,25 @@
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/nlp.png" alt="Natural Language Processing" width="100%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/nlp.png" alt="Natural Language Processing" width="40" height="40" />
             <br/>NLP
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://kafka.apache.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/kafka.png" alt="Kafka" width="70%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/kafka.png" alt="Kafka" width="40" height="40" />
             <br/>Kafka
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hive.apache.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hive.png" alt="Hive" width="100%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hive.png" alt="Hive" width="40" height="40" />
             <br/>Hive
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hbase.apache.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hbase.png" alt="HBase" width="100%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hbase.png" alt="HBase" width="40" height="40" />
             <br/>HBase
         </a>
     </div>
