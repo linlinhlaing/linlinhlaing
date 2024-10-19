@@ -8,9 +8,11 @@
 
 <!-- Portfolio Section -->
 
-<p align="center">
-  [![Visit my Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-3498db?style=for-the-badge&logo=appveyor)](https://linlinhlaing.com/)
-</p>
+<div align="center">
+    <a href="https://linlinhlaing.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-3498db?style=for-the-badge&logo=appveyor" alt="Visit my Portfolio"/>
+    </a>
+</div>
 
 
 
