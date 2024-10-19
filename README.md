@@ -59,31 +59,31 @@
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://numpy.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/numpy.png" alt="NumPy" width="70%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/numpy.png" alt="NumPy" width="40" height="40" />
             <br/>NumPy
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://pandas.pydata.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/pandas.png" alt="Pandas" width="70%" height="30" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/pandas.png" alt="Pandas" width="40" height="30" />
             <br/>Pandas
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://www.djangoproject.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/django.png" alt="Django" width="50" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/django.png" alt="Django" width="40" height="40" />
             <br/>Django
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://flask.palletsprojects.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/flask.png" alt="Flask" width="70%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/flask.png" alt="Flask" width="40" height="40" />
             <br/>Flask
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hadoop.apache.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hadoop.png" alt="Hadoop" width="70%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hadoop.png" alt="Hadoop" width="40" height="40" />
             <br/>Hadoop
         </a>
     </div>
