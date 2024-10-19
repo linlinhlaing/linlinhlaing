@@ -46,49 +46,51 @@
 </ul>
 <br><br>
 
+<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/your_image.png" alt="Description" />
+
 
 <!-- Skills Section -->
 <h2 align="center" style="color: #3498db; font-weight: bold;">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin: 10px;">
     <div style="text-align: center; margin: 10px;">
         <a href="https://www.python.org/" target="_blank">
-            <img src="images/python.png" alt="Python" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/python.png" alt="Python" width="40" height="40" />
             <br/>Python
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://numpy.org/" target="_blank">
-            <img src="images/numpy.png" alt="NumPy" width="70%" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/numpy.png" alt="NumPy" width="70%" height="40" />
             <br/>NumPy
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://pandas.pydata.org/" target="_blank">
-            <img src="images/pandas.png" alt="Pandas" width="70%" height="30" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/pandas.png" alt="Pandas" width="70%" height="30" />
             <br/>Pandas
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://www.djangoproject.com/" target="_blank">
-            <img src="images/django.png" alt="Django" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/django.png" alt="Django" width="50" height="40" />
             <br/>Django
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://flask.palletsprojects.com/" target="_blank">
-            <img src="images/flask.png" alt="Flask" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/flask.png" alt="Flask" width="70%" height="40" />
             <br/>Flask
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hadoop.apache.org/" target="_blank">
-            <img src="images/hadoop.png" alt="Hadoop" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hadoop.png" alt="Hadoop" width="70%" height="40" />
             <br/>Hadoop
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://www.java.com/" target="_blank">
-            <img src="images/java.png" alt="Java" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/java.png" alt="Java" width="40" height="40" />
             <br/>Java
         </a>
     </div>
@@ -98,43 +100,43 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin: 10px;">
     <div style="text-align: center; margin: 10px;">
         <a href="https://aws.amazon.com/" target="_blank">
-            <img src="images/aws.png" alt="AWS" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/aws.png" alt="AWS" width="40" height="40" />
             <br/>AWS
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://cloud.google.com/" target="_blank">
-            <img src="images/google-cloud.png" alt="Google Cloud" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/google-cloud.png" alt="Google Cloud" width="40" height="40" />
             <br/>Google Cloud
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-            <img src="images/nlp.png" alt="Natural Language Processing" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/nlp.png" alt="Natural Language Processing" width="100%" height="40" />
             <br/>NLP
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://kafka.apache.org/" target="_blank">
-            <img src="images/kafka.png" alt="Kafka" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/kafka.png" alt="Kafka" width="70%" height="40" />
             <br/>Kafka
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hive.apache.org/" target="_blank">
-            <img src="images/hive.png" alt="Hive" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hive.png" alt="Hive" width="100%" height="40" />
             <br/>Hive
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hbase.apache.org/" target="_blank">
-            <img src="images/hbase.png" alt="HBase" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/hbase.png" alt="HBase" width="100%" height="40" />
             <br/>HBase
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://opencv.org/" target="_blank">
-            <img src="images/opencv.svg" alt="OpenCV" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/linlinhlaing/linlinhlaing/main/images/opencv.svg" alt="OpenCV" width="40" height="40" />
             <br/>OpenCV
         </a>
     </div>
