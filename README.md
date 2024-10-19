@@ -6,7 +6,6 @@
 
 
 
-
 🚀 Check out my  Portfolio [linlinhlaing.com](https://linlinhlaing.com/) 
 
 Hello!
@@ -43,7 +42,7 @@ I am Lin Lin Hlaing, a Machine Learning Engineer with 3 years of experience in c
 - 😄 Pronouns: Lin Lin.
 - ⚡ Fun fact: I enjoy drawing and photography.
 
-#### ⚒️ Languages-Frameworks-Tools ⚒️
+### ⚒️ Languages-Frameworks-Tools ⚒️
 
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -55,6 +54,11 @@ I am Lin Lin Hlaing, a Machine Learning Engineer with 3 years of experience in c
 |-----|--------------|-----|-------|------|-------|--------|
 | [<img src="images/aws.png" alt="AWS" width="40"/>](https://aws.amazon.com/) &nbsp; &nbsp; &nbsp; &nbsp; | [<img src="images/google-cloud.png" alt="Google Cloud" width="40"/>](https://cloud.google.com/) &nbsp; &nbsp; &nbsp; &nbsp; | [<img src="images/nlp.png" alt="Natural Language Processing" width="40"/>](https://en.wikipedia.org/wiki/Natural_language_processing) | [<img src="images/kafka.png" alt="Kafka" width="40"/>](https://kafka.apache.org/) | [<img src="images/hive.png" alt="Hive" width="40"/>](https://hive.apache.org/) | [<img src="images/hbase.png" alt="HBase" width="40"/>](https://hbase.apache.org/) | [<img src="images/opencv.svg" alt="OpenCV" width="40"/>](https://opencv.org/) |
 
+### Professional Links
+- resume: [My Resume/CV](https://linlinhlaing.com/LinHlaing-resume.pdf)
+- email: linhlaing@outlook.com
+
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -65,11 +69,6 @@ I am Lin Lin Hlaing, a Machine Learning Engineer with 3 years of experience in c
 </div>
 
 <hr/>
-
-#### Professional Links
-- resume: [My Resume/CV](https://linlinhlaing.com/LinHlaing-resume.pdf)
-- email: linhlaing@outlook.com
-
 
 
 
