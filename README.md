@@ -8,7 +8,7 @@
 
 <!-- Portfolio Section -->
 
-<h3 align="center" style="color: #3498db;font-weight: bold;">🚀 Visit my Portfolio</h3>
+<h3 align="center" style="font-weight: bold;"><font color="#3498db">🚀 Visit my Portfolio</h3>
 <p align="center">
     <a href="https://linlinhlaing.com/" target="_blank" style="text-decoration: none;">
         <img src="images/portfolio.svg" alt="Portfolio Globe Icon" width="40" height="40" /></a>
