@@ -36,13 +36,13 @@
 </p>
 <br>
 <!-- What I Do Section -->
-<h2 align="center" style="color: #3498db;font-weight: bold;">🚀 What I Currently Do</h3>
-<ul style="list-style-type: none; font-size: 1.1rem; ">
+<h2 align="center" style="color: #3498db; font-weight: bold;">🚀 What I Currently Do</h2>
+<ul style="list-style-type: none; font-size: 1.1rem; padding: 0;">
     <li style="margin-left: 50px;">🎓 I'm currently pursuing a Master's in Computer Science at Maharishi International University via distance education.</li>
-    <li style="margin-left: 50px;">🤖 Currenlty Learning about Natural Language Processing and developing related projects</li>
-    <li style="margin-left: 50px;">📫 How to reach me: [Lin Lin Hlaing](https://www.linkedin.com/in/lin-hlaing/)<li>
+    <li style="margin-left: 50px;">🤖 Currently learning about Natural Language Processing and developing related projects.</li>
+    <li style="margin-left: 50px;">📫 How to reach me: <a href="https://www.linkedin.com/in/lin-hlaing/" style="text-decoration: none; color: #3498db;">Lin Lin Hlaing</a></li>
     <li style="margin-left: 50px;">😄 Pronouns: Lin Lin</li>
-    <li style="margin-left: 50px;">⚡ Fun fact: I enjoy drawing and photography</li>
+    <li style="margin-left: 50px;">⚡ Fun fact: I enjoy drawing and photography.</li>
 </ul>
 <br><br>
 
@@ -70,19 +70,19 @@
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://www.djangoproject.com/" target="_blank">
-            <img src="images/django.png" alt="Django" width="50" height="40" />
+            <img src="images/django.png" alt="Django" width="40" height="40" />
             <br/>Django
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://flask.palletsprojects.com/" target="_blank">
-            <img src="images/flask.png" alt="Flask" width="70%" height="40" />
+            <img src="images/flask.png" alt="Flask" width="40" height="40" />
             <br/>Flask
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hadoop.apache.org/" target="_blank">
-            <img src="images/hadoop.png" alt="Hadoop" width="70%" height="40" />
+            <img src="images/hadoop.png" alt="Hadoop" width="40" height="40" />
             <br/>Hadoop
         </a>
     </div>
@@ -110,25 +110,25 @@
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
-            <img src="images/nlp.png" alt="Natural Language Processing" width="100%" height="40" />
+            <img src="images/nlp.png" alt="Natural Language Processing" width="40" height="40" />
             <br/>NLP
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://kafka.apache.org/" target="_blank">
-            <img src="images/kafka.png" alt="Kafka" width="70%" height="40" />
+            <img src="images/kafka.png" alt="Kafka" width="40" height="40" />
             <br/>Kafka
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hive.apache.org/" target="_blank">
-            <img src="images/hive.png" alt="Hive" width="100%" height="40" />
+            <img src="images/hive.png" alt="Hive" width="40" height="40" />
             <br/>Hive
         </a>
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://hbase.apache.org/" target="_blank">
-            <img src="images/hbase.png" alt="HBase" width="100%" height="40" />
+            <img src="images/hbase.png" alt="HBase" width="40" height="40" />
             <br/>HBase
         </a>
     </div>
