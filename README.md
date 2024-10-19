@@ -1,4 +1,11 @@
-## Hi I'm Lin Lin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=linlinhlaing.linlinhlaing" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lin+Lin!;" />
+</h1>
+
+
+
 
 🚀 Check out my  Portfolio [linlinhlaing.com](https://linlinhlaing.com/) 
 
@@ -31,11 +38,13 @@ I am Lin Lin Hlaing, a Machine Learning Engineer with 3 years of experience in c
 
 ### What I currently Do
 - 🎓 I'm currently pursuing a Master's in Computer Science at Maharishi International University via distance education.
-- 🤖 I am currently developing projects in image processing and NLP to expand my skills.
+- 🤖 Currenlty Learning about Natural Language Processing
 - 📫 How to reach me: [Lin Lin Hlaing](https://www.linkedin.com/in/lin-hlaing/).
 - 😄 Pronouns: Lin Lin.
 - ⚡ Fun fact: I enjoy drawing and photography.
-#### Top Technologies
+
+#### ⚒️ Languages-Frameworks-Tools ⚒️
+
 
 <!-- TODO: Make technologies links takes you to repositories -->
 | Python | NumPy | Pandas | Django | Flask | Hadoop | Java |
