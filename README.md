@@ -154,7 +154,8 @@
 
 <br>
 
-
++ This text will have a green background (diff syntax highlighting)
+- This text will have a red background
 
 <!-- Professional Links Section -->
 <h2 align="center" style="color: #3498db;font-weight: bold;">🔗 Professional Links</h2>
