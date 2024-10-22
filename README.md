@@ -42,7 +42,7 @@
 <ul style="list-style-type: none; font-size: 1.1rem; padding: 0;">
     <li style="margin-left: 50px;">🎓 I'm currently pursuing a Master's in Computer Science at Maharishi International University via distance education.</li>
     <li style="margin-left: 50px;">🤖 Currently learning about Natural Language Processing and developing related projects.</li>
-    <li style="margin-left: 50px;">📫 How to reach me: <a href="https://www.linkedin.com/in/lin-hlaing/" style="text-decoration: none; color: #3498db;">Lin Lin Hlaing</a></li>
+    <li style="margin-left: 50px;">📝 Read <a href="https://linlinhlaing.github.io/" style="text-decoration: none; color: #3498db;">My learning notes</a></li>
     <li style="margin-left: 50px;">😄 Pronouns: Lin Lin</li>
     <li style="margin-left: 50px;">⚡ Fun fact: I enjoy drawing and photography.</li>
 </ul>
